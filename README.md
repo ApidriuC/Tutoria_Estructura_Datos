@@ -11,3 +11,7 @@
 # Pilas
 
 <p align="justify">Una Pila es otra estructura de dato similar a las listas, puede almacenar elementos y se insertan por un extremo y se suprime el último elemento insertado. Las pilas son de tipo LIFO (Last In, First Out) el último elemento de la pila en entrar, es el primero en salir.</p>
+
+# PriorityQueue 
+
+<p align="justify">PriorityQueue es una estructura de datos que se usa cuando se supone que los objetos se procesarán en función de la prioridad. Como bien sabemos una cola funciona mediante FIFO (First In, First Out), pero de vez en cuando se necesita insertar elementos de acuerdo a una prioridad, aquí entra PriorityQueue o colas de prioridad. </p>
