@@ -32,8 +32,20 @@ Un ejemplo de estructura LIFO, imaginemos un conjunto de platos y estos se está
 
 # Listas Doblemente Enlazadas
 
-<p align="justify">Las listas doblemente enlazadas funcionan de la misma manera que las simples, la diferencia es que contienen un apuntador adicional, por lo que uno apunta al siguiente elemento y otro al anterior, de esta forma enlazando todos los elementos de la lista unos con otros. </p>
+<p align="justify">Las listas doblemente enlazadas funcionan de la misma manera que las simples, la diferencia es que contienen un apuntador adicional, por lo que uno apunta al siguiente elemento y otro al anterior, de esta forma enlazando todos los elementos de la lista unos con otros. 
 
-# Listas Enlazadas Circulares
+<br>
+  
+Java nos permite mediante la librería java.util obtener una referencia de una colección llamada “LinkedList”,, la cual actúa como una lista doblemente enlazada, esta consta de tres elementos: Dato, ApuntadorAnterior y ApuntadorSiguiente. 
+  
+</p>
 
-<p align="justify">Las listas enlazadas circulares son listas que funcionan como un bucle, su nodo de inicio apunta a la ultima posición de la lista y el ultimo nodo apunta a la primera posición de la lista. </p>
+# Listas Circulares Enlazadas
+
+<p align="justify">Las listas circulares enlazadas son listas que funcionan como un bucle, su nodo de inicio apunta a la ultima posición de la lista y el ultimo nodo apunta a la primera posición de la lista. </p>
+
+# Listas  Circulares Doblemente Enlazadas
+
+<p align="justify">Esta lista funciona similar a la lista doblemente enlazada, lo que la diferencia es que en sus nodos de inicio y fin tiene apuntadores que los conectan y la vuelven una lista cíclica como habíamos explicado anteriormente.</p>
+
+
