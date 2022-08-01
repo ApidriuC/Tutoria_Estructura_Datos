@@ -25,3 +25,8 @@ Un ejemplo de estructura LIFO, imaginemos un conjunto de platos y estos se está
 # PriorityQueue 
 
 <p align="justify">PriorityQueue es una estructura de datos que se usa cuando se supone que los objetos se procesarán en función de la prioridad. Como bien sabemos una cola funciona mediante FIFO (First In, First Out), pero de vez en cuando se necesita insertar elementos de acuerdo a una prioridad, aquí entra PriorityQueue o colas de prioridad. </p>
+
+# Listas Simples Enlazadas
+
+<p align="justify">Las listas simples enlazadas es un tipo de dato que hace referencia con un puntero que esta apuntando al siguiente elemento, de esta forma todos los elementos tienen los punteros apuntando hacia el siguiente elemento de la lista y se pueden hacer operaciones de búsqueda, inserción, entre otras, con estos apuntadores. </p>
+
