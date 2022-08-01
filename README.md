@@ -1,2 +1,1 @@
-# Tutoria_Estructura_Datos
-Ejemplos de manejo de algunas estructuras de datos en Java - NetBeans Enterprise Edition
+<h1 align="center">EJEMPLOS ESTRUCTURAS DE DATOS</h1>
