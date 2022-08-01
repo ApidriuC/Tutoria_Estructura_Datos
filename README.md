@@ -30,3 +30,10 @@ Un ejemplo de estructura LIFO, imaginemos un conjunto de platos y estos se está
 
 <p align="justify">Las listas simples enlazadas es un tipo de dato que hace referencia con un puntero que esta apuntando al siguiente elemento, de esta forma todos los elementos tienen los punteros apuntando hacia el siguiente elemento de la lista y se pueden hacer operaciones de búsqueda, inserción, entre otras, con estos apuntadores. </p>
 
+# Listas Doblemente Enlazadas
+
+<p align="justify">Las listas doblemente enlazadas funcionan de la misma manera que las simples, la diferencia es que contienen un apuntador adicional, por lo que uno apunta al siguiente elemento y otro al anterior, de esta forma enlazando todos los elementos de la lista unos con otros. </p>
+
+# Listas Enlazadas Circulares
+
+<p align="justify">Las listas enlazadas circulares son listas que funcionan como un bucle, su nodo de inicio apunta a la ultima posición de la lista y el ultimo nodo apunta a la primera posición de la lista. </p>
