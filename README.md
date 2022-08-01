@@ -7,14 +7,18 @@
 # Colas
 
 <p align="justify">Una Cola es una estructura de dato similar a las listas, puede almacenar elementos y se insertan por un extremo y se suprimen por el otro. Las colas son de tipo FIFO (First In, First Out) el primero elemento de la cola en entrar, es el primero en salir.
+  
 <br>
+  
 Un ejemplo de una estructura FIFO, imaginemos una fila en un banco, la primera persona en llegar, será la primera persona en ser atendido. 
 </p>
 
 # Pilas
 
 <p align="justify">Una Pila es otra estructura de dato similar a las listas, puede almacenar elementos y se insertan por un extremo y se suprime el último elemento insertado. Las pilas son de tipo LIFO (Last In, First Out) el último elemento de la pila en entrar, es el primero en salir.
+  
 <br>
+  
 Un ejemplo de estructura LIFO, imaginemos un conjunto de platos y estos se están poniendo uno encima del otro, y si se quiere sacar uno, se saca ultimo plato que se añadió a la columna de platos. 
 </p>
 
